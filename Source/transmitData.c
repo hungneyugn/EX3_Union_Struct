@@ -1,5 +1,5 @@
 /*
-*File: main.c
+*File: transmitData.c
 *Author: Nguyen Phi Hung
 *Date: 11/03/2023
 *Description: Define funtions which are declarated in header file
