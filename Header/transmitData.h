@@ -1,5 +1,5 @@
 /*
-*File: main.c
+*File: transmitData.h
 *Author: Nguyen Phi Hung
 *Date: 11/03/2023
 *Description: File header for transmitting frame data
